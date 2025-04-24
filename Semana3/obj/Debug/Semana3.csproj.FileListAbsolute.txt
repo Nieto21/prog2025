@@ -12,3 +12,10 @@ C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana3
 C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
 C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.exe
 C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.pdb
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\bin\Debug\Semana3.exe.config
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\bin\Debug\Semana3.exe
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\bin\Debug\Semana3.pdb
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.exe
+C:\Users\user\source\repos\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.pdb
